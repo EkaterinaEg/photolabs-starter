@@ -17,7 +17,7 @@ PhotoLabs is a React-based single-page application (SPA) that allows users to vi
   - The server/persistence layer may require modifications for stretch goals
 - The client will communicate with the API over HTTP using the JSON format
 
-## Functional Requirements
+## Behavioural Requirements
 
 - A user can view photos from the homepage loaded from the API.
 - The user can navigate to different photo categories, also called topics.
